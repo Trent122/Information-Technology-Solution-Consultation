@@ -10,3 +10,4 @@ Blocktec understands that not every client need can be solved with a blockchain/
 
 Blocktec has partnered with Companies experienced in non-blockchain related IT work, to ensure we can provide a seamless and full-stack solution  without hindering the progress of the project. Said differently, if your problem can be solved with IT solutions (blockchain or not), we can provide the expertise and resources no matter the niche.
 
+```Mind-Mapping Link BlockChain Dev```: https://gitmind.com/app/doc/34b3112514 
