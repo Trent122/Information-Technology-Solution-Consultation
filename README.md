@@ -2,6 +2,8 @@
 
 ```BlockTec Service Offerings```
 
+![Bridge-Connect](https://user-images.githubusercontent.com/59753390/136640348-b26b34ec-a180-40c5-924a-0034eb156ee1.png)
+
 ```Information Technology Solution Consultation```
 
 This ReadMe is an introduction to Information Technology Solution Consultation of Bloctec
