@@ -17,6 +17,6 @@ Blocktec has partnered with Companies experienced in non-blockchain related IT w
 1.) ```What is the service?``` 
 We provide mind mapping tools for new or existing clients giving visual representations for current, upcoming, and immediate development challenges with ideas and execution processes.
 
-2.) ```What is``` the value? The value provided with this consultation gives not-so-technical and technical individuals the ideal road map for the given execution process. These are essential before diving deep into the development stage as still the most significant hurdle retaining to a barrier to entry with education hurdles of this current technology.
+2.) ```What is the value?``` The value provided with this consultation gives not-so-technical and technical individuals the ideal road map for the given execution process. These are essential before diving deep into the development stage as still the most significant hurdle retaining to a barrier to entry with education hurdles of this current technology.
 
 3.) The process flow provides (Elaborate on Image) 
